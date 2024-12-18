@@ -1,0 +1,8 @@
+@tailwindcss base;
+@tailwind components;
+@tailwind utilities;
+.headlessui-tabs-tab{
+    border:none;
+    background:none;
+    padding:0;
+}
